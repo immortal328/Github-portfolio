@@ -1,5 +1,6 @@
 {
   "name": "react-complete-guide",
+  "homepage": "https://immortal328.github.io/Github-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,6 +47,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^6.1.1",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.8"
   }
